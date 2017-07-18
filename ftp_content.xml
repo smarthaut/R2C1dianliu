@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TransferContent
+	providerID="xor.com"
+	assetID="CMEftps020170717F002"
+	transferBitRate="4000000"
+	sourceURL="ftp://10.50.10.20/mpeg2_Bitrate_3.35MB_5mins.mpg"
+                              userName="SeaChange"
+                              password="SeaChange"
+	volumeName="80222"
+	responseURL="10.5.0.52">
+	<ContentAsset>
+	<metadata  name="cscontenttype" value="MPEG2TS"/>
+	</ContentAsset>
+</TransferContent>
